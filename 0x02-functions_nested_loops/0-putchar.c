@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * main - print _putchar and a new line
- * Return: Always 0
+ * main - Entry maine
+ *
+ * Return: 0 nothing, return void
  */
 int main(void)
 {
