@@ -1,1 +1,1 @@
-silence is argument carried out by brothers
+0x0A. C - argc, argv
